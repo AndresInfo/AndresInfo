@@ -30,5 +30,6 @@
   - En el recuadro donde pone **_Use this URL for developmen_** copiar el enlace en una pestaña nueva y tiene que salir 
   ## This is heading ##
   **This is paragraph**
+  
 7. Se edita **README.md** pulsando sobre el lápiz y para guardar a **Commit changes**.
 8. Una vez averiguado que todo es correcto, copio la **URL** del _repository_ en la **Tramesa**.
