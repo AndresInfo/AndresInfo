@@ -15,7 +15,7 @@
 
 2. Creamos los tres documentos _rtf_ _xml_ _html_ con su respectivo código.
 
-3. [entramos en github](https://github.com)
+3. Entramos en [github](https://github.com)
 
 4. Creamos una cuenta y pulsamos sobre **_New Repository_**.
 
