@@ -27,4 +27,4 @@
 
   - Pulsar sobre ~~error de escritura~~ el documento _html_ y copiar la URL:https://github.com/AndresInfo/AndresInfo/blob/AndresInfo-newbranch/Prueba%203.html en la web [Rawgit](www.rawgit.com). 
 
-  - En el recuadro donde pone **_Use this URL for developmen_** copiar el enlace en una pestaña nueva y tiene que salir **## This is heading ##** **This is paragraph**
+  - En el recuadro donde pone **_Use this URL for developmen_** copiar el enlace en una pestaña nueva y tiene que salir ## This is heading ## **This is paragraph**
