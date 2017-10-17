@@ -1,11 +1,11 @@
 # REALIZACION TAREA 1 LENGUAJE DE MARCAS #
-1 . Doble click en Mi PC.
+·Doble click en Mi PC.
 
-·1   Boton derecho sobre el fondo blanco.
+  ·Boton derecho sobre el fondo blanco.
 
-·1    Pulsar en **propiedades**.
+  ·Pulsar en **propiedades**.
 
-·1    Clicar sobre **Herramientas**.
+  ·Clicar sobre **Herramientas**.
 
 ·1    Clicar sobre **Opciones de Carpeta**.
 
