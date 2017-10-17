@@ -13,15 +13,15 @@
 
   - Dentro de la Opción _Archivos y carpetas Ocultos_ deseleccionar **Ocultar las extensiones de archivo para tipos de archivo conocidos**
 
-2.Creamos los tres documentos _rtf_ _xml_ _html_ con su respectivo código.
+2. Creamos los tres documentos _rtf_ _xml_ _html_ con su respectivo código.
 
-3.[entramos en github](https://github.com)
+3. [entramos en github](https://github.com)
 
-4.Creamos una cuenta y pulsamos sobre **_New Repository_**.
+4. Creamos una cuenta y pulsamos sobre **_New Repository_**.
 
-5·Le damos un nombre y clicamos en la opcion de **Initialize this repository with README**
+5. Le damos un nombre y clicamos en la opcion de **Initialize this repository with README**
 
-6.Para comprobar que el documento de _html_ esta creado correctamente:
+6. Para comprobar que el documento de _html_ esta creado correctamente:
 
   - Cargar los tres documentos a **Github**
 
