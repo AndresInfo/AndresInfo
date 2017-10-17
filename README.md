@@ -1,17 +1,17 @@
 # REALIZACION TAREA 1 LENGUAJE DE MARCAS #
-·Doble click en Mi PC.
+-Doble click en Mi PC.
 
-  ·Boton derecho sobre el fondo blanco.
+  - Boton derecho sobre el fondo blanco.
 
-  ·Pulsar en **propiedades**.
+  - Pulsar en **propiedades**.
 
-  ·Clicar sobre **Herramientas**.
+  - Clicar sobre **Herramientas**.
 
-·1    Clicar sobre **Opciones de Carpeta**.
+  - Clicar sobre **Opciones de Carpeta**.
 
-·1     Entrar en la pestaña **Ver**.
+  - Entrar en la pestaña **Ver**.
 
-·1     Dentro de la Opción _Archivos y carpetas Ocultos_ deseleccionar **Ocultar las extensiones de archivo para tipos de archivo conocidos**
+  - Dentro de la Opción _Archivos y carpetas Ocultos_ deseleccionar **Ocultar las extensiones de archivo para tipos de archivo conocidos**
 
 2.Creamos los tres documentos _rtf_ _xml_ _html_ con su respectivo código.
 
