@@ -23,8 +23,8 @@
 
 6.Para comprobar que el documento de _html_ esta creado correctamente:
 
-  - 6 Cargar los tres documentos a **Github**
+  - Cargar los tres documentos a **Github**
 
-  - 6 Pulsar sobre ~~error de escritura~~ el documento _html_ y copiar la **URL** en la web **RAWGIT**. 
+  - Pulsar sobre ~~error de escritura~~ el documento _html_ y copiar la **URL** en la web **RAWGIT**. 
 
-  - 6 En el recuadro donde pone **_Use this URL for developmen_** copiar el enlace en una pestaña nueva y tiene que salir **This is heading** **This is paragraph**
+  - En el recuadro donde pone **_Use this URL for developmen_** copiar el enlace en una pestaña nueva y tiene que salir **This is heading** **This is paragraph**
