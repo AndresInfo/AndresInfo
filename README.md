@@ -1,5 +1,5 @@
-## REALIZACION TAREA 1 LENGUAJE DE MARCAS ##
-1. Doble click en Mi PC.
+# REALIZACION TAREA 1 LENGUAJE DE MARCAS #
+1 . Doble click en Mi PC.
 
 ·1 Boton derecho sobre el fondo blanco.
 
