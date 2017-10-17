@@ -1,9 +1,9 @@
 # AndresInfo
 Tarea UD1
 ##REALIZACION TAREA 1 LENGUAJE DE MARCAS##
-1 . Doble click en Mi PC.
-· 1 Boton derecho sobre el fondo blanco.
-·· 1 Pulsar en **propiedades**.
+1. Doble click en Mi PC.
+·1 Boton derecho sobre el fondo blanco.
+·2 Pulsar en **propiedades**.
 ···1 Clicar sobre **Herramientas**.
 ····1 Clicar sobre **Opciones de Carpeta**
 ·····1 Entrar en la pestaña **Ver**.
